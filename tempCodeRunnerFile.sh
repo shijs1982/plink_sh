@@ -1,0 +1,2 @@
+i='abc'
+echo $i
